@@ -1,2 +1,2 @@
-string=str(raw_input())
-print(string.count('.')+int(1))
+str=str(raw_input())
+print(str.count('.')+int(1))
